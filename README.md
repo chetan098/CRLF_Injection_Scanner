@@ -1,4 +1,4 @@
-# CRLF-Injection-Scanner
+# CRLF_Injection_Scanner
 
 Command line tool for testing CRLF injection on a list of domains.
 
